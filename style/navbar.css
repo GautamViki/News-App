@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+#search_input{
+    width: 1000px;
+    font-size: 18px;
+    padding: 8px;
+    border-radius: 20px;
+}

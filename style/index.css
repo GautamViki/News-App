@@ -1,0 +1,11 @@
+#container{
+    display: flex;
+    gap: 15px 0px;
+}
+#sidebar{
+    width: 15%;
+    cursor: pointer;
+}
+#results{
+    width: 85%;
+}
